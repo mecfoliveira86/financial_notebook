@@ -1,4 +1,4 @@
-# InvestEdu-BR: Financial Literacy via Prompt Engineering
+# Preparing the ground to the financial fruits
 
 > **A project developed for the DIO & Bradesco Bootcamp: "Data Science with Generative AI."**
 > 
